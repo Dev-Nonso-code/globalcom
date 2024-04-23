@@ -1,0 +1,235 @@
+img {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header .q {
+  margin: 7px 0px 0px 14px;
+  cursor: pointer;
+}
+header .v {
+  display: flex;
+  margin: -4em 0px 0px 56em;
+}
+header .v div {
+  cursor: pointer;
+  border-radius: 100px;
+  margin: 0px 0px 0px 4px;
+  color: white;
+  width: 2.3em;
+  height: 2.1em;
+  background-color: rgb(0, 0, 0);
+}
+header .v div img {
+  padding-left: 4px;
+}
+header .v div:hover {
+  background-color: pink;
+  color: black;
+}
+
+#e {
+  position: absolute;
+  display: flex;
+  margin: 4px 0px 0pc 34em;
+}
+#e .rt {
+  position: relative;
+}
+#e .rt:hover .w {
+  margin: 4px 0px 0px -4.8em;
+  display: block;
+  position: relative;
+  width: 14.7em;
+  height: 8.2em;
+  background-color: black;
+  border-color: white;
+}
+#e div {
+  margin-left: 4px;
+}
+#e div button {
+  width: fit-content;
+  height: 2em;
+  background-color: white;
+  color: #818181;
+  border-radius: 10px;
+  border-style: none;
+}
+#e div button:hover {
+  background-color: red;
+  color: white;
+  text-transform: uppercase;
+}
+#e .w {
+  display: none;
+}
+#e .w div {
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+  height: 3.1em;
+}
+#e .w div:hover {
+  border-radius: 9px;
+  background-color: #191919;
+}
+#e .w a {
+  margin: auto;
+}
+
+main {
+  margin: 3em 16px 0px 1em;
+}
+main #item {
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-duration: 1s;
+}
+
+#jo h1 {
+  text-align: center;
+  color: red;
+  margin: 2em 0px 0.7em 0em;
+}
+#jo p {
+  color: #978c88;
+  text-align: center;
+}
+
+#all .jk {
+  margin: 3em 0px 0px 4em;
+}
+#all .jk a {
+  color: #978c88;
+}
+#all .we {
+  max-width: 104%;
+  flex-wrap: nowrap;
+  display: flex;
+}
+#all .we div {
+  text-align: center;
+  margin: 1em 0px 0px 13px;
+  display: block;
+}
+#all .we div img {
+  border-radius: 10px;
+  width: 13em;
+  height: 9em;
+}
+#all .we div h4 {
+  margin: 7px;
+}
+#all .we div p {
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: unset;
+}
+#all .we div button {
+  margin-bottom: 3em;
+  height: 2.4em;
+  margin: auto;
+  color: white;
+  background-color: red;
+  border-style: none;
+  border-radius: 7px;
+}
+#all .we div button:hover {
+  background-color: chocolate;
+  color: #978c88;
+}
+#all .jk {
+  text-align: center;
+  margin-left: 10em;
+  display: block;
+}
+#all .jk .v {
+  cursor: pointer;
+}
+#all .jk .vv a {
+  text-align: center;
+  color: #978c88;
+}
+
+#uo {
+  margin: 3em 0px 0px 0px;
+  background-color: rgba(229, 229, 229, 0.3176470588);
+}
+#uo h3 {
+  padding-top: 2em;
+  margin: 0em 0px 2em 4.8em;
+  color: #e81d21;
+  font-size: 30px;
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+#uo div {
+  justify-content: space-between;
+  display: flex;
+  text-align: center;
+}
+#uo div img {
+  margin: 0px 8px 0px 1em;
+  width: 19em;
+  height: 14em;
+}
+#uo div p {
+  font-family: "Open Sans";
+  font-weight: 400;
+  line-height: 27px;
+  color: rgba(136, 136, 136, 0.5333333333);
+}
+#uo div button {
+  margin: 0px 0px 0px -40em;
+  display: inline-flex;
+  background-color: #e81d21;
+  color: white;
+  border-radius: 10px;
+  border-style: none;
+  height: 2em;
+}
+#uo div button:hover {
+  background-color: green;
+  color: lime;
+}
+#uo div section {
+  display: block;
+}
+
+#ty {
+  margin-top: 2em;
+  background-color: #2f2f2f;
+}
+#ty .div {
+  margin: auto;
+  display: flex;
+}
+#ty .div h3 {
+  color: white;
+}
+#ty .div p {
+  color: #54626f;
+}
+#ty .div .we {
+  margin: 2em 0px 0px 1.5em;
+}
+#ty .div .re {
+  margin: 2em 0px 0px 1.5em;
+}
+#ty .div .re #ec {
+  color: white;
+}
+#ty .div .re #ec:hover {
+  color: cadetblue;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=globalcom.css.map */
